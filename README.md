@@ -15,7 +15,7 @@ Moreover, in-depth gene regulatory network analysis identified key stage-specifi
 
 
 
-# Dissecting the oligodendrocyte lineage heterogeneity: Framework for in-depth examination into disease states
+# Section 1 - Dissecting oligodendrocyte lineage heterogeneity: Framework for in-depth examination into disease states
 The SVZ has been recently described as heterogeneous germinal zone that contains NSCs that continuously gives rise to new neural cells life-long. This heterogeneous germinal zone has been identified from the labs of Raineteau, Berninger, Gotz, Parras, Butt, Richardson and others (Kessaris et al., 2006; Young et al., 2007; Brill et al., 2009; Winpenny et al., 2011; Nakatani et al., 2013; Ortega et al., 2013; Fiorelli et al., 2015; Azim et al., 2017; Zweifel et al., 2018), demonstrating that it consists of distinct SVZ microdomain that generates different neural lineages throughout life. For example, the NSCs from the dorsal wall (cells in red in Figure above) preferably differentiate into glutamatergic neurons or oligodendrocytes, whilst NSCs from more ventral regions gives rise interneurons. The functions of these newly generated cells are for plasticity purposes, maintenance and re-organization of neuronal networks. Subclasses of newborn neurons migrate long distance and invade the olfactory bulb. 
 
 ![Fig 2](https://user-images.githubusercontent.com/31452870/79344589-5043cd80-7f30-11ea-9c77-95fbb7e201b9.jpg)
@@ -38,7 +38,7 @@ Thereafter, expression profiles of substages of the OL lineage and of the neuron
 Once OL and neuronal clones of cells were assigned, they were renamed in the matrix (RACEID normalised Matrix of 1466.zip) and was processed next using the gold standard Seurat package (https://satijalab.org/seurat/v3.1/visualization_vignette.html) for single cell analysis (Butler et al. 2018) (Adapted Scripts and input Matrix in Subfolder Figure 1E,F). FateID pseudotime trajectory done as per the guidlines in this folllowing resource: https://github.com/dgrun/FateID (Herman et al. 2018) and data provided im subfolders Figure 1C.
 
 
-# **Pathway and Biological Process Gene Ontology Analysis -  Online Extension to Figure 2**
+# ** Section 2 - Pathway and Biological Process Gene Ontology Analysis -  Online Extension to Figure 2**
 
 Additional unpublished gene ontology analysis done on the three broader groups using the following online tool: http://www.pantherdb.org
 in this analysis, the gene expression profiles of cells within these groups as shown in the figure above, we pooled so as to have 3 broader groups for Panther Pathway, Reactome Pathway/Processes and protein class. The same procedures were followed as the data presented for dotplots in the main manuscript. 
@@ -54,7 +54,7 @@ Raw cytoscape cluego file to follow.
 
 
 
-# **Ranking of transcriptional cues and gene regulatory network reconstruction - Online Extension to Figure 4**
+# **Section 3 - Ranking of transcriptional cues and gene regulatory network reconstruction - Online Extension to Figure 4**
 
 The analysis had disclosed major classes of protein present in earlier oligodendroglial lineage cells, notably with mid-proliferative cell stages featuring abundant expression of transcriptional cues. Therefore, the expression of TFs (including transcriptional adapters, transcription cofactors) was further explored taking into account their common expression in both the oligodendroglial and neuron lineages. To this end, an analysis was performed by compiling genes in all oligodendroglial clone clusters and compared with the proneuronal clones. The numerous and abundant TFs particularly at the mid stages as described above, TFs that are further enriched in the OL lineage and TFs common to both OL and neuron lineages were explored. Corresponding genes were prioritized based on the GeneMania-derived genetic and physical interaction analysis. This step aids determining the effects of perturbing a given TF and its impact of adjacent genes based on genetic, proteomic and simulated data of known TF-target gene interactions and protein-protein interactions (see Materials and Methods). This procedure allows correlating genes and gene-network interactions to functional relevance from multiple studies that forms the background data that outlines the different stages and TF expression across the oligodendroglial lineage. Prioritizing TFs was done by applying the ‘heat diffusion’ algorithm that tests the input query data and the functional interaction of each gene propagation across the network. Strongly interactive nodes in the network are uncovered and allow creation of subnetworks, allowing filtering of nodes with lower functional relevance. This was applied for both physical and genetic interactions (see figure below) and identified TFs with functional weighting. Using these parameters and additional topological interpretations as described in Materials and Methods were computed for representing the key TFs. 
 
@@ -86,7 +86,7 @@ Subnetworks below used to reconstruct are provided as raw cytoscape files in Sup
 
 
 
-# **AdultOLgenesis Gene Regulatory Network - Online Extension to Figure 4**
+# **Section 4 - AdultOLgenesis Gene Regulatory Network - Online Extension to Figure 4**
 
 ![Main Legend](https://user-images.githubusercontent.com/31452870/79365465-f7cdf980-7f4a-11ea-80b7-fb8573af396b.jpg)
 
@@ -94,7 +94,7 @@ Subnetworks below used to reconstruct are provided as raw cytoscape files in Sup
 
 
 
-# **Higher Resolution Network Micrographs - Online Extension to Figure 5**
+# **Section 5 - Higher Resolution Network Micrographs - Online Extension to Figure 5**
 See above legend for detailing network and interaction components. 
 
 ![Olig2+Sox10](https://user-images.githubusercontent.com/31452870/79366602-c6562d80-7f4c-11ea-9859-595ee769ce41.png)
@@ -111,7 +111,7 @@ See above legend for detailing network and interaction components.
 
 
 
-# **Alternative layout using force-direction - Online Extension to Figure 5**
+# **Section 6 - Alternative layout using force-direction - Online Extension to Figure 5**
 
 ![qNSC1-B-x](https://user-images.githubusercontent.com/31452870/79366780-10d7aa00-7f4d-11ea-90f0-71cc34597ecd.png)
 
@@ -126,7 +126,7 @@ See above legend for detailing network and interaction components.
 
 
 
-# **Transcriptional Propagation of Signaling Pathways Across the AdultOLgenesis Gene Regulatory Network - Online Extension to Figure 6**
+# **Section 7 - Transcriptional Propagation of Signaling Pathways Across the AdultOLgenesis Gene Regulatory Network - Online Extension to Figure 6**
 
 This section contains the data used to generate figure 6 of the main manuscript, higher resolution files, TF/gene node coordinates accross the network and the main GRN file.
 
@@ -202,13 +202,16 @@ In the illustrations here given, for example, for PDGF Signaling, its TFs are qu
 
 ![Figure 6](https://user-images.githubusercontent.com/31452870/79368214-54331800-7f4f-11ea-830b-dffac96afac7.jpg)
 
+
+Raw data's and network files for performing the analysis: 
+
 [Node Coordinates.zip](https://github.com/kasumaz/AdultOLgenesis/files/4482747/Node.Coordinates.zip)
 
 [Figure 6 higher resolution plots.zip](https://github.com/kasumaz/AdultOLgenesis/files/4482750/Figure.6.higher.resolution.plots.zip)
 
 [GRN Base For Testing Network Propagation.zip](https://github.com/kasumaz/AdultOLgenesis/files/4482754/GRN.Base.For.Testing.Network.Propagation.zip)
 
-
+This may be useful for identifying for example, potentially inhibitory ligands/chemokines that emerge during disease with unknown effects on oligodendroglial lineage cells. If the known transcriptional effectors of such cues are expressed endogeneously, the gene targets can be predicted. Our future investigations will aim to define these regulatory interactions from different contexts from health and disease in order to improve accuracy of predictions.   
 
 
 ## References: 
