@@ -1,7 +1,7 @@
 
-#AdultOLgenesis##
+# **AdultOLgenesis**
 
-##Single cell analysis of the generation and regulation of oligodendrocyte lineage cells## 
+## Single cell analysis of the generation and regulation of oligodendrocyte lineage cells
 
 
 The subventricular zone (SVZ) is the largest neurogenic niche in the adult forebrain. Notably, neural stem cells (NSCs) of the SVZ generate not only neurons, but also oligodendrocytes, the myelin-forming cells of the central nervous system. Transcriptomic studies have provided detailed knowledge of the molecular events that regulate neurogenesis, but little is understood about adult oligodendrogenesis from SVZ NSCs.
