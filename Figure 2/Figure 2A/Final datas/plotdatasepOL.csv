@@ -1,0 +1,106 @@
+Pathways,Cluster,Cluster_Sec,Cluster_Ter,Lineage,Stage,Fold_Enrichment,pvalue,FDR
+Cell cycle ,,,,,,,,
+De novo purine biosynthesis ,,,,,,,,
+De novo pyrimidine deoxyribonucleotide biosynthesis ,,,,,,,,
+De novo pyrimidine ribonucleotides biosythesis ,,,,,,,,
+DNA replication ,,,,,,,,
+FAS signaling   ,,,,,,,,
+p53   ,,,,,,,,
+Ubiquitin proteasome   ,,,,,,,,
+5HT2 type receptor mediated signaling   ,,,,,,,,
+Axon guidance mediated by semaphorins ,,,,,,,,
+CCKR signaling map ,,,,,,,,
+Cell cycle ,,,,,,,,
+Cytoskeletal regulation by Rho GTPase ,,,,,,,,
+G-protein (Gi alpha and Gs alpha) signaling,,,,,,,,
+G-protein (rod/phototransduction) signaling  ,,,,,,,,
+Histamine H1 receptor mediated signaling   ,,,,,,,,
+Ubiquitin proteasome   ,,,,,,,,
+5-Hydroxytryptamine degredation ,,,,,,,,
+CCKR signaling map ,,,,,,,,
+Fructose galactose metabolism ,,,,,,,,
+Vasopressin synthesis ,,,,,,,,
+Alpha adrenergic receptor signaling   ,,,,,,,,
+Angiotensin II signaling via G proteins + beta-arrestin ,,,,,,,,
+Endothelin signaling   ,,,,,,,,
+Fructose galactose metabolism ,,,,,,,,
+Glutamine glutamate conversion ,,,,,,,,
+G-protein (Gi alpha and Gs alpha) signaling,,,,,,,,
+G-protein (Gq alpha and Go alpha) signaling   ,,,,,,,,
+Histamine H1 receptor mediated signaling   ,,,,,,,,
+Vasopressin synthesis ,,,,,,,,
+Glutamine glutamate conversion ,,,,,,,,
+Glycolysis ,,,,,,,,
+G-protein (Gi alpha and Gs alpha) signaling,,,,,,,,
+G-protein (Gq alpha and Go alpha) signaling   ,,,,,,,,
+Ionotropic glutamate receptor   ,,,,,,,,
+Metabotropic glutamate receptor group III   ,,,,,,,,
+Vasopressin synthesis ,,,,,,,,
+Axon guidance mediated by semaphorins ,,,,,,,,
+CCKR signaling map ,,,,,,,,
+Cell cycle ,,,,,,,,
+Cytoskeletal regulation by Rho GTPase ,,,,,,,,
+De novo pyrimidine deoxyribonucleotide biosynthesis ,,,,,,,,
+De novo pyrimidine ribonucleotides biosythesis ,,,,,,,,
+DNA replication ,,,,,,,,
+FAS signaling   ,,,,,,,,
+FGF signaling   ,,,,,,,,
+G-protein (rod/phototransduction) signaling  ,,,,,,,,
+p53   ,,,,,,,,
+Ubiquitin proteasome   ,,,,,,,,
+5HT2 type receptor mediated signaling   ,MOL,0,0,OL,13,3.39,0.0196,0.2
+Angiogenesis ,MOL,0,0,OL,13,3.22,0.000583,0.0478
+Axon guidance mediated by semaphorins ,MOL,0,0,OL,13,7.9,0.00252,0.0827
+Cytoskeletal regulation by Rho GTPase ,MOL,0,0,OL,13,5.11,0.000129,0.0211
+Endothelin signaling   ,MOL,0,0,OL,13,3.32,0.0119,0.15
+FGF signaling   ,MOL,0,0,OL,13,3.43,0.00185,0.0757
+Muscarinic acetylcholine receptor 1/3 signaling   ,MOL,0,0,OL,13,3.03,0.0492,0.403
+Ras   ,MOL,0,0,OL,13,4.48,0.00146,0.0799
+De novo purine biosynthesis ,OLaNSC,0,0,OL,8,8.61,0.0017,0.139
+De novo pyrimidine deoxyribonucleotide biosynthesis ,OLaNSC,0,0,OL,8,14.3,0.00186,0.102
+De novo pyrimidine ribonucleotides biosythesis ,OLaNSC,0,0,OL,8,14.3,0.00186,0.102
+FAS signaling   ,OLaNSC,0,0,OL,8,6.07,0.0159,0.521
+Notch signaling   ,OLaNSC,0,0,OL,8,6.21,0.00504,0.207
+Alpha adrenergic receptor signaling   ,OLpNSC,0,0,OL,6,7.06,0.00368,0.302
+Angiogenesis ,OLpNSC,0,0,OL,6,2.26,0.0226,0.618
+Cysteine biosynthesis ,OLpNSC,0,0,OL,6,42.39,0.0456,0.934
+Cytoskeletal regulation by Rho GTPase ,OLpNSC,0,0,OL,6,4.29,0.0456,0.934
+Methylmalonyl   ,OLpNSC,0,0,OL,6,16.96,0.0103,0.423
+PDGF signaling   ,OLpNSC,0,0,OL,6,2.42,0.0216,0.709
+Pyruvate metabolism ,OLpNSC,0,0,OL,6,10.6,0.00451,0.246
+Ubiquitin proteasome   ,OLpNSC,0,0,OL,6,3.21,0.0239,0.561
+Angiogenesis ,OLqNSCI,0,0,OL,2,3.79,0.00047,0.0386
+Cadherin signaling   ,OLqNSCI,0,0,OL,2,2.91,0.0124,0.51
+PDGF signaling   ,OLqNSCI,0,0,OL,2,2.75,0.0255,0.698
+Vasopressin synthesis ,OLqNSCI,0,0,OL,2,9.86,0.0217,0.711
+Cysteine biosynthesis ,OLqNSCII,0,0,OL,4,50,0.0167,0.546
+Cytoskeletal regulation by Rho GTPase ,OLqNSCII,0,0,OL,4,5,0.0167,0.546
+Glutamine glutamate conversion ,OLqNSCII,0,0,OL,4,7.9,0.000684,0.112
+Glycolysis ,OLqNSCII,0,0,OL,4,9.49,0.0213,0.499
+G-protein (Gi alpha and Gs alpha) signaling,OLqNSCII,0,0,OL,4,3.71,0.0127,0.52
+G-protein (Gq alpha and Go alpha) signaling   ,OLqNSCII,0,0,OL,4,3.89,0.0215,0.441
+Ionotropic glutamate receptor   ,OLqNSCII,0,0,OL,4,9.68,0.00101,0.0826
+Metabotropic glutamate receptor group III   ,OLqNSCII,0,0,OL,4,5.39,0.0201,0.55
+CCKR signaling map ,OLTAP,0,0,OL,10,2.07,0.0158,0.259
+Cell cycle ,OLTAP,0,0,OL,10,2.07,0.0158,0.259
+Cytoskeletal regulation by Rho GTPase ,OLTAP,0,0,OL,10,3.46,0.000702,0.0192
+De novo purine biosynthesis ,OLTAP,0,0,OL,10,4.87,0.0026,0.0533
+De novo pyrimidine deoxyribonucleotide biosynthesis ,OLTAP,0,0,OL,10,8.98,0.000602,0.0198
+De novo pyrimidine ribonucleotides biosythesis ,OLTAP,0,0,OL,10,8.98,0.000602,0.0198
+DNA replication ,OLTAP,0,0,OL,10,5.59,0.00141,0.033
+G-protein (rod/phototransduction) signaling  ,OLTAP,0,0,OL,10,3.4,0.0214,0.292
+Notch signaling   ,OLTAP,0,0,OL,10,2.92,0.0358,0.367
+p53   ,OLTAP,0,0,OL,10,2.99,0.00317,0.0578
+Ubiquitin proteasome   ,OLTAP,0,0,OL,10,4.95,8.79E-06,0.000721
+5HT2 type receptor mediated signaling   ,OPC,0,0,OL,12,4.79,0.000471,0.00966
+Angiogenesis ,OPC,0,0,OL,12,2.37,0.0125,0.076
+Angiotensin II signaling via G proteins + beta-arrestin ,OPC,0,0,OL,12,5.28,0.00376,0.0363
+CCKR signaling map ,OPC,0,0,OL,12,4.06,5.85E-06,0.00032
+Endothelin signaling   ,OPC,0,0,OL,12,2.93,0.0204,0.105
+FGF signaling   ,OPC,0,0,OL,12,3.03,0.00414,0.0377
+G-protein (Gq alpha and Go alpha) signaling   ,OPC,0,0,OL,12,3.94,0.000109,0.00298
+Histamine H1 receptor mediated signaling   ,OPC,0,0,OL,12,5.47,0.00129,0.0193
+Ionotropic glutamate receptor   ,OPC,0,0,OL,12,7.37,1.03E-05,0.000423
+Metabotropic glutamate receptor group III   ,OPC,0,0,OL,12,6.68,2.51E-06,0.000206
+Muscarinic acetylcholine receptor 1/3 signaling   ,OPC,0,0,OL,12,6.02,4.33E-05,0.00142
+Vasopressin synthesis ,OPC,0,0,OL,12,9.25,0.00633,0.0495

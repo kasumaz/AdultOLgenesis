@@ -1,0 +1,8 @@
+This file:
+The entire matrix of 1007 cells normalised of Neuro clones + MOLs-2.csv
+
+Has to be filtered to only contains genes enriched in neuro clones+NBs+MOLs. 
+Then its ready as an x matrix (2-3K genes)
+Then, the top 10 of each cluster, should be 75-80 genes or so...should be filtered so it becomes the v matrix. 
+
+The cluster names and numbers have to be identified also. 

@@ -1,0 +1,40 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20190308)
+Annotation Version and Release Date:	PANTHER version 14.1 Released 2019-03-12
+Analyzed List:	OLTAP (Mus musculus )OLaNSC (Mus musculus )
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+PANTHER GO-Slim Cellular Component	Mus musculus - REFLIST (22296)	OLTAP (887)	OLTAP (expected)	OLTAP (over/under)	OLTAP (fold Enrichment)	OLTAP (raw P-value)	OLTAP (FDR)	OLaNSC (334)	OLaNSC (expected)	OLaNSC (over/under)	OLaNSC (fold Enrichment)	OLaNSC (raw P-value)	OLaNSC (FDR)
+cytosolic small ribosomal subunit (GO:0022627)	39	27	1.55	+	17.40	2.18E-21	8.15E-20	20	.58	+	34.23	2.26E-22	2.02E-20
+cytosolic ribosome (GO:0022626)	117	65	4.65	+	13.96	2.32E-45	3.46E-43	51	1.75	+	29.10	7.61E-53	3.41E-50
+cytosolic large ribosomal subunit (GO:0022625)	75	38	2.98	+	12.74	7.21E-26	3.59E-24	31	1.12	+	27.59	8.90E-32	9.97E-30
+cytosolic part (GO:0044445)	164	75	6.52	+	11.50	1.43E-47	6.43E-45	54	2.46	+	21.98	1.28E-50	2.87E-48
+ribosome (GO:0005840)	17	5	.68	+	7.39	1.24E-03	6.69E-03	5	.25	+	19.63	1.46E-05	3.11E-04
+small-subunit processome (GO:0032040)	35	9	1.39	+	6.46	3.58E-05	2.59E-04	4	.52	+	7.63	2.55E-03	3.81E-02
+preribosome (GO:0030684)	76	19	3.02	+	6.28	2.83E-09	4.08E-08	6	1.14	+	5.27	1.35E-03	2.16E-02
+ribonucleoprotein complex (GO:1990904)	233	56	9.27	+	6.04	5.29E-24	2.37E-22	15	3.49	+	4.30	4.65E-06	1.10E-04
+nucleolar part (GO:0044452)	59	14	2.35	+	5.96	5.88E-07	6.59E-06	6	.88	+	6.79	3.92E-04	7.33E-03
+nucleolus (GO:0005730)	140	31	5.57	+	5.57	4.74E-13	8.84E-12	17	2.10	+	8.11	1.89E-10	8.45E-09
+t-UTP complex (GO:0034455)	50	11	1.99	+	5.53	1.75E-05	1.38E-04	5	.75	+	6.68	1.29E-03	2.14E-02
+cytosol (GO:0005829)	755	117	30.04	+	3.90	3.33E-33	2.13E-31	69	11.31	+	6.10	1.74E-32	2.60E-30
+nuclear lumen (GO:0031981)	562	75	22.36	+	3.35	4.02E-18	1.20E-16	27	8.42	+	3.21	2.28E-07	7.86E-06
+nuclear part (GO:0044428)	853	113	33.93	+	3.33	9.41E-27	5.27E-25	35	12.78	+	2.74	1.42E-07	5.30E-06
+nucleus (GO:0005634)	2223	244	88.44	+	2.76	1.21E-46	2.72E-44	68	33.30	+	2.04	2.21E-08	8.99E-07
+intracellular membrane-bounded organelle (GO:0043231)	2369	245	94.25	+	2.60	1.10E-42	1.24E-40	68	35.49	+	1.92	2.59E-07	8.28E-06
+intracellular organelle (GO:0043229)	2375	245	94.48	+	2.59	1.60E-42	1.44E-40	68	35.58	+	1.91	2.68E-07	8.02E-06
+organelle (GO:0043226)	3882	317	154.44	+	2.05	3.60E-37	2.69E-35	82	58.15	+	1.41	1.06E-03	1.83E-02
+cytoplasmic part (GO:0044444)	2177	168	86.61	+	1.94	7.08E-16	1.67E-14	90	32.61	+	2.76	8.11E-19	6.06E-17
+intracellular part (GO:0044424)	3793	270	150.90	+	1.79	9.36E-22	3.81E-20	115	56.82	+	2.02	2.63E-14	1.47E-12
+cytoplasm (GO:0005737)	3588	252	142.74	+	1.77	2.31E-19	7.97E-18	112	53.75	+	2.08	1.11E-14	7.07E-13
+intracellular (GO:0005622)	4417	278	175.72	+	1.58	1.95E-15	3.98E-14	120	66.17	+	1.81	1.14E-11	5.69E-10
+cell part (GO:0044464)	5772	294	229.63	+	1.28	2.80E-06	2.46E-05	127	86.47	+	1.47	1.55E-06	4.35E-05
+cell (GO:0005623)	5798	294	230.66	+	1.27	3.54E-06	2.89E-05	127	86.86	+	1.46	2.20E-06	5.80E-05
+Unclassified (UNCLASSIFIED)	12473	360	496.21	-	.73	2.69E-19	8.62E-18	147	186.85	-	.79	1.77E-05	3.61E-04
+extracellular region (GO:0005576)	1347	5	53.59	-	.09	2.23E-17	6.23E-16	3	20.18	-	.15	3.64E-06	9.06E-05
+extracellular space (GO:0005615)	1196	4	47.58	-	.08	9.16E-16	1.95E-14	3	17.92	-	.17	3.38E-05	6.59E-04
+extracellular region part (GO:0044421)	1260	4	50.13	-	.08	5.47E-17	1.44E-15	3	18.88	-	.16	1.09E-05	2.44E-04

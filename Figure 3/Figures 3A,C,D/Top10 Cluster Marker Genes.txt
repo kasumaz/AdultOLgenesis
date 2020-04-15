@@ -1,0 +1,201 @@
+cluster	gene
+Neuro G2M aNSCs	Casc5
+Neuro G2M aNSCs	Spc25
+Neuro G2M aNSCs	Pbk
+Neuro G2M aNSCs	Cenpe
+Neuro G2M aNSCs	Mki67
+Neuro G2M aNSCs	Cdk1
+Neuro G2M aNSCs	Ccna2
+Neuro G2M aNSCs	Top2a
+Neuro G2M aNSCs	Smc4
+Neuro G2M aNSCs	Hmgb2
+G2M NBs	Stmn2
+G2M NBs	Ube2c
+G2M NBs	Nrep
+G2M NBs	Map1b
+G2M NBs	Cenpa
+G2M NBs	Tmsb10
+G2M NBs	Basp1
+G2M NBs	Tubb3
+G2M NBs	Cd24a
+G2M NBs	Tubb5
+G2M OLTAPs	Ect2
+G2M OLTAPs	Cenpa
+G2M OLTAPs	Tpx2
+G2M OLTAPs	Ccnb1
+G2M OLTAPs	Mki67
+G2M OLTAPs	Fos
+G2M OLTAPs	Rad21
+G2M OLTAPs	Marcks
+G2M OLTAPs	Hmgn2
+G2M OLTAPs	Ube2c
+Neuro G2M TAPs	Tpx2
+Neuro G2M TAPs	Cks2
+Neuro G2M TAPs	Racgap1
+Neuro G2M TAPs	Cenpa
+Neuro G2M TAPs	Mki67
+Neuro G2M TAPs	Hmgb2
+Neuro G2M TAPs	Ccna2
+Neuro G2M TAPs	H2afz
+Neuro G2M TAPs	Top2a
+Neuro G2M TAPs	Hmgn2
+Neuro G2 aNSCs	Igfbp5
+Neuro G2 aNSCs	Acot1
+Neuro G2 aNSCs	Kcne1l
+Neuro G2 aNSCs	Ascl1
+Neuro G2 aNSCs	Cbs
+Neuro G2 aNSCs	Mycn
+Neuro G2 aNSCs	Fabp7
+Neuro G2 aNSCs	Fam210b
+Neuro G2 aNSCs	Egfr
+Neuro G2 aNSCs	Thrsp
+MOL	Mal
+MOL	Mag
+MOL	Cldn11
+MOL	Trf
+MOL	Tubb4a
+MOL	Sept04
+MOL	Mbp
+MOL	Ptgds
+MOL	Cnp
+MOL	Plp1
+Quiescent NB	Dlx6os1
+Quiescent NB	Dcx
+Quiescent NB	Stmn2
+Quiescent NB	Tubb3
+Quiescent NB	Nrep
+Quiescent NB	Bcl11a
+Quiescent NB	Map1b
+Quiescent NB	Basp1
+Quiescent NB	Tmsb10
+Quiescent NB	Pfn2
+Quiescent OLaNSC	Crlf1
+Quiescent OLaNSC	Ascl1
+Quiescent OLaNSC	Egfr
+Quiescent OLaNSC	Fabp7
+Quiescent OLaNSC	Olig2
+Quiescent OLaNSC	Acot1
+Quiescent OLaNSC	Hspa1a
+Quiescent OLaNSC	Mycn
+Quiescent OLaNSC	Hspd1
+Quiescent OLaNSC	Hspa1b
+OLpNSC	2810454H06Rik
+OLpNSC	Hmgcs2
+OLpNSC	Thbs4
+OLpNSC	S100a6
+OLpNSC	Sfrp1
+OLpNSC	Foxo1
+OLpNSC	Fars2
+OLpNSC	Cpe
+OLpNSC	Xrn1
+OLpNSC	Fbxo2
+OLqNSCI	Kcnt1
+OLqNSCI	Agt
+OLqNSCI	Adora2b
+OLqNSCI	Nrp1
+OLqNSCI	Atp13a4
+OLqNSCI	Slc6a9
+OLqNSCI	Gjb6
+OLqNSCI	Sparc
+OLqNSCI	Aqp4
+OLqNSCI	Lrig1
+OLqNSCII	Dio2
+OLqNSCII	Kcnj16
+OLqNSCII	Grm3
+OLqNSCII	Mgll
+OLqNSCII	Appl2
+OLqNSCII	Slc4a4
+OLqNSCII	Hopx
+OLqNSCII	Trps1
+OLqNSCII	Luzp2
+OLqNSCII	Gria2
+OPC	Gpr17
+OPC	3110035E14Rik
+OPC	Cspg4
+OPC	Lhfpl3
+OPC	Pdgfra
+OPC	Sulf2
+OPC	Cntn1
+OPC	Olig1
+OPC	Olig2
+OPC	Vcan
+pNSC	Thbs4
+pNSC	Hmgcs2
+pNSC	S100a6
+pNSC	Meg3
+pNSC	Fxyd1
+pNSC	Cpe
+pNSC	1500015O10Rik
+pNSC	Prss56
+pNSC	Enpp2
+pNSC	Ttr
+qNSCI	Agt
+qNSCI	Gria1
+qNSCI	Etnppl
+qNSCI	Slc6a9
+qNSCI	Hsd11b1
+qNSCI	Gjb6
+qNSCI	Sparc
+qNSCI	Psd2
+qNSCI	Slc4a4
+qNSCI	Camk2g
+qNSCII	Htra1
+qNSCII	Cxcl14
+qNSCII	S1pr1
+qNSCII	Ppap2b
+qNSCII	Slc1a3
+qNSCII	Bcan
+qNSCII	Fjx1
+qNSCII	Gpr37l1
+qNSCII	Gja1
+qNSCII	Sparcl1
+S Phase aNSC	Hells
+S Phase aNSC	Mcm3
+S Phase aNSC	Mcm6
+S Phase aNSC	Lima1
+S Phase aNSC	Ascl1
+S Phase aNSC	Miat
+S Phase aNSC	Pcna
+S Phase aNSC	Pak3
+S Phase aNSC	Egr1
+S Phase aNSC	2810417H13Rik
+S Phase NBs	Dlx6os1
+S Phase NBs	Dcx
+S Phase NBs	Stmn2
+S Phase NBs	Tubb3
+S Phase NBs	Gad1
+S Phase NBs	Cd24a
+S Phase NBs	Basp1
+S Phase NBs	Tmsb10
+S Phase NBs	Ccnd2
+S Phase NBs	Gad2
+S Phase OLaNSC	Crlf1
+S Phase OLaNSC	Olig2
+S Phase OLaNSC	Lima1
+S Phase OLaNSC	Egfr
+S Phase OLaNSC	Mycn
+S Phase OLaNSC	Miat
+S Phase OLaNSC	Hspa1b
+S Phase OLaNSC	Mfap2
+S Phase OLaNSC	Erdr1
+S Phase OLaNSC	Gsx1
+S Phase OLTAP	Dpysl3
+S Phase OLTAP	Odc1
+S Phase OLTAP	Hes6
+S Phase OLTAP	Cdk4
+S Phase OLTAP	Glcci1
+S Phase OLTAP	Pcna
+S Phase OLTAP	Tmsb4x
+S Phase OLTAP	Sox4
+S Phase OLTAP	Egr1
+S Phase OLTAP	Hat1
+S Phase TAP	Mcm6
+S Phase TAP	Mcm2
+S Phase TAP	Mcm5
+S Phase TAP	Rrm2
+S Phase TAP	Pcna
+S Phase TAP	Marcksl1
+S Phase TAP	Hnrnpab
+S Phase TAP	2810417H13Rik
+S Phase TAP	Ccnd2
+S Phase TAP	Hmgn2

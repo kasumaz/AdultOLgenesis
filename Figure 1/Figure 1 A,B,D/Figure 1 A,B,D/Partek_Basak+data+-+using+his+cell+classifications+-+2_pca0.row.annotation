@@ -1,0 +1,133 @@
+Cell symbol	Total count	Expressed genes	Mitochondrial reads percent	Cell Types	Cell ID	Graph-based	Classifications
+5095	7575.52	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0021	3	6 pNSCs - Oligodendrogenic
+5133	7576.01	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0059	3	8 aNSCs - Oligodendrogenic
+5151	7574.75	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0077	1	2 qNSCs Stage I - Oligodendrogenic
+5170	7575.46	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0096	2	10 TAPs - Oligodendrogenic
+5173	7575.39	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0099	1	4 qNSC2 Stage II Oligodendrogenic
+5181	7576.25	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0107	1	4 qNSC2 Stage II Oligodendrogenic
+5202	7574.9	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0128	3	13 OPCs
+5205	7575.61	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0131	3	6 pNSCs - Oligodendrogenic
+5231	7574.75	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0157	3	13 OPCs
+5235	7576.26	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0161	2	8 aNSCs - Oligodendrogenic
+5251	7573.97	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0177	1	4 qNSC2 Stage II Oligodendrogenic
+5255	7575.85	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0181	3	13 OPCs
+5263	7575.14	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0189	1	2 qNSCs Stage I - Oligodendrogenic
+5283	7575.43	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0209	3	13 OPCs
+5309	7575.29	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0235	1	4 qNSC2 Stage II Oligodendrogenic
+5314	7575.5	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0240	1	4 qNSC2 Stage II Oligodendrogenic
+5336	7574.02	17681	0	TROY+ qNSCs, few pNSCs or aNSCs	Cell0262	1	4 qNSC2 Stage II Oligodendrogenic
+5359	7575	17681	0	TAPs and some NPs	Cell0285	2	13 OPCs
+5398	7575.77	17681	0	TAPs and some NPs	Cell0324	2	10 TAPs - Oligodendrogenic
+5450	7575.6	17681	0	TAPs and some NPs	Cell0376	2	10 TAPs - Oligodendrogenic
+5470	7575.76	17681	0	TAPs and some NPs	Cell0396	2	10 TAPs - Oligodendrogenic
+5473	7575.78	17681	0	TAPs and some NPs	Cell0399	2	10 TAPs - Oligodendrogenic
+5475	7575.67	17681	0	TAPs and some NPs	Cell0401	2	10 TAPs - Oligodendrogenic
+5507	7575.95	17681	0	TAPs and some NPs	Cell0433	2	10 TAPs - Oligodendrogenic
+5604	7575.87	17681	0	TAPs and some NPs	Cell0530	2	10 TAPs - Oligodendrogenic
+5613	7574.36	17681	0	TAPs and some NPs	Cell0539	3	6 pNSCs - Oligodendrogenic
+5644	7575.11	17681	0	Mainly qNSCs + few pNSCs/aNSCs	Cell0570	1	2 qNSCs Stage I - Oligodendrogenic
+5669	7573.79	17681	0	Mainly qNSCs + few pNSCs/aNSCs	Cell0595	1	4 qNSC2 Stage II Oligodendrogenic
+5755	7575.18	17681	0	Mainly qNSCs + few pNSCs/aNSCs	Cell0681	1	2 qNSCs Stage I - Oligodendrogenic
+5775	7572.49	17681	0	Mainly qNSCs + few pNSCs/aNSCs	Cell0701	1	2 qNSCs Stage I - Oligodendrogenic
+5787	7573.41	17681	0	Mainly qNSCs + few pNSCs/aNSCs	Cell0713	1	4 qNSC2 Stage II Oligodendrogenic
+5795	7574.27	17681	0	Mainly qNSCs + few pNSCs/aNSCs	Cell0721	4	14 Mature OLs
+5848	7573.43	17681	0	Mainly qNSCs + few pNSCs/aNSCs	Cell0774	1	4 qNSC2 Stage II Oligodendrogenic
+5908	7572.17	17681	0	Mainly qNSCs + few pNSCs/aNSCs	Cell0834	4	14 Mature OLs
+5927	7575.03	17681	0	aNSCs mainly 	Cell0853	2	8 aNSCs - Oligodendrogenic
+5944	7575.33	17681	0	aNSCs mainly 	Cell0870	3	8 aNSCs - Oligodendrogenic
+5960	7575.48	17681	0	aNSCs mainly 	Cell0886	3	8 aNSCs - Oligodendrogenic
+5963	7575.82	17681	0	aNSCs mainly 	Cell0889	3	8 aNSCs - Oligodendrogenic
+5981	7575.25	17681	0	aNSCs mainly 	Cell0907	4	14 Mature OLs
+5985	7574.49	17681	0	aNSCs mainly 	Cell0911	4	14 Mature OLs
+5989	7576.04	17681	0	aNSCs mainly 	Cell0915	2	10 TAPs - Oligodendrogenic
+5990	7575.86	17681	0	aNSCs mainly 	Cell0916	3	8 aNSCs - Oligodendrogenic
+5992	7575.02	17681	0	aNSCs mainly 	Cell0918	4	14 Mature OLs
+5995	7575.22	17681	0	aNSCs mainly 	Cell0921	2	8 aNSCs - Oligodendrogenic
+5997	7575.29	17681	0	aNSCs mainly 	Cell0923	2	8 aNSCs - Oligodendrogenic
+5998	7574.45	17681	0	aNSCs mainly 	Cell0924	2	8 aNSCs - Oligodendrogenic
+6000	7574.26	17681	0	aNSCs mainly 	Cell0926	3	8 aNSCs - Oligodendrogenic
+6002	7575.4	17681	0	aNSCs mainly 	Cell0928	2	8 aNSCs - Oligodendrogenic
+6010	7575.6	17681	0	qNSCs 	Cell0936	3	6 pNSCs - Oligodendrogenic
+6019	7575.64	17681	0	qNSCs 	Cell0945	4	14 Mature OLs
+6021	7574.31	17681	0	qNSCs 	Cell0947	1	2 qNSCs Stage I - Oligodendrogenic
+6033	7574.44	17681	0	qNSCs 	Cell0959	1	4 qNSC2 Stage II Oligodendrogenic
+6054	7575.39	17681	0	qNSCs 	Cell0980	4	14 Mature OLs
+6060	7575.8	17681	0	qNSCs 	Cell0986	4	14 Mature OLs
+6063	7574.67	17681	0	qNSCs 	Cell0989	4	14 Mature OLs
+6064	7575.56	17681	0	qNSCs 	Cell0990	4	14 Mature OLs
+6070	7575.09	17681	0	qNSCs 	Cell0996	4	14 Mature OLs
+6082	7575.83	17681	0	TAPs 	Cell1008	2	8 aNSCs - Oligodendrogenic
+6093	7575.54	17681	0	TAPs 	Cell1019	2	10 TAPs - Oligodendrogenic
+6107	7575.56	17681	0	TAPs 	Cell1033	2	10 TAPs - Oligodendrogenic
+6118	7574.99	17681	0	Oligodendroglia	Cell1044	4	14 Mature OLs
+6119	7575.51	17681	0	Oligodendroglia	Cell1045	4	14 Mature OLs
+6124	7576.25	17681	0	Oligodendroglia	Cell1050	4	14 Mature OLs
+6125	7574.78	17681	0	Oligodendroglia	Cell1051	4	14 Mature OLs
+6126	7573.76	17681	0	Oligodendroglia	Cell1052	3	13 OPCs
+6131	7576.26	17681	0	Oligodendroglia	Cell1057	4	14 Mature OLs
+6132	7575.74	17681	0	Oligodendroglia	Cell1058	4	14 Mature OLs
+6133	7575.3	17681	0	Oligodendroglia	Cell1059	4	14 Mature OLs
+6136	7576.26	17681	0	Oligodendroglia	Cell1062	4	14 Mature OLs
+6137	7575.71	17681	0	Oligodendroglia	Cell1063	4	14 Mature OLs
+6138	7576.26	17681	0	Oligodendroglia	Cell1064	4	14 Mature OLs
+6139	7573.6	17681	0	Oligodendroglia	Cell1065	4	14 Mature OLs
+6143	7575.2	17681	0	Oligodendroglia	Cell1069	3	13 OPCs
+6144	7575.62	17681	0	Oligodendroglia	Cell1070	4	14 Mature OLs
+6146	7572.08	17681	0	Oligodendroglia	Cell1072	1	4 qNSC2 Stage II Oligodendrogenic
+6148	7573.46	17681	0	Oligodendroglia	Cell1074	4	14 Mature OLs
+6150	7574.05	17681	0	Oligodendroglia	Cell1076	4	14 Mature OLs
+6151	7573.02	17681	0	Oligodendroglia	Cell1077	4	14 Mature OLs
+6154	7573.7	17681	0	Oligodendroglia	Cell1080	3	13 OPCs
+6155	7574.65	17681	0	Oligodendroglia	Cell1081	4	14 Mature OLs
+6156	7576.26	17681	0	Oligodendroglia	Cell1082	4	14 Mature OLs
+6158	7574.13	17681	0	Oligodendroglia	Cell1084	4	14 Mature OLs
+6162	7575.37	17681	0	Oligodendroglia	Cell1088	4	14 Mature OLs
+6163	7575.7	17681	0	Oligodendroglia	Cell1089	4	14 Mature OLs
+6164	7575.51	17681	0	Oligodendroglia	Cell1090	4	14 Mature OLs
+6165	7574.8	17681	0	Oligodendroglia	Cell1091	4	14 Mature OLs
+6167	7571.79	17681	0	Oligodendroglia	Cell1093	3	13 OPCs
+6169	7574.97	17681	0	Oligodendroglia	Cell1095	4	14 Mature OLs
+6171	7575.22	17681	0	Oligodendroglia	Cell1097	4	14 Mature OLs
+6172	7575.98	17681	0	Oligodendroglia	Cell1098	4	14 Mature OLs
+6175	7575.79	17681	0	Oligodendroglia	Cell1101	4	14 Mature OLs
+6177	7574.01	17681	0	Oligodendroglia	Cell1103	4	14 Mature OLs
+6178	7573.94	17681	0	Oligodendroglia	Cell1104	4	14 Mature OLs
+6179	7576.25	17681	0	Oligodendroglia	Cell1105	4	14 Mature OLs
+6180	7571.76	17681	0	Oligodendroglia	Cell1106	4	14 Mature OLs
+6183	7576.25	17681	0	Oligodendroglia	Cell1109	4	14 Mature OLs
+6186	7573.63	17681	0	Oligodendroglia	Cell1112	4	14 Mature OLs
+6188	7574.36	17681	0	Oligodendroglia	Cell1114	4	14 Mature OLs
+6192	7575.25	17681	0	Oligodendroglia	Cell1118	4	14 Mature OLs
+6193	7574.42	17681	0	Oligodendroglia	Cell1119	4	14 Mature OLs
+6194	7575.08	17681	0	Oligodendroglia	Cell1120	4	14 Mature OLs
+6195	7574.87	17681	0	Oligodendroglia	Cell1121	4	14 Mature OLs
+6198	7574.81	17681	0	Oligodendroglia	Cell1124	4	14 Mature OLs
+6199	7574.99	17681	0	Oligodendroglia	Cell1125	4	14 Mature OLs
+6200	7574.23	17681	0	Oligodendroglia	Cell1126	4	14 Mature OLs
+6203	7574.66	17681	0	Oligodendroglia	Cell1129	4	14 Mature OLs
+6204	7575.2	17681	0	Oligodendroglia	Cell1130	4	14 Mature OLs
+6205	7575.56	17681	0	Oligodendroglia	Cell1131	4	14 Mature OLs
+6207	7570.63	17681	0	Oligodendroglia	Cell1133	4	14 Mature OLs
+6210	7574.66	17681	0	Oligodendroglia	Cell1136	4	14 Mature OLs
+6211	7574.75	17681	0	Oligodendroglia	Cell1137	4	14 Mature OLs
+6212	7575.64	17681	0	Oligodendroglia	Cell1138	4	14 Mature OLs
+6213	7575.97	17681	0	Oligodendroglia	Cell1139	4	14 Mature OLs
+6218	7573.1	17681	0	Oligodendroglia	Cell1144	3	13 OPCs
+6219	7575.45	17681	0	Oligodendroglia	Cell1145	4	14 Mature OLs
+6220	7575.13	17681	0	Oligodendroglia	Cell1146	4	14 Mature OLs
+6223	7574.49	17681	0	Oligodendroglia	Cell1149	1	4 qNSC2 Stage II Oligodendrogenic
+6224	7576.25	17681	0	Oligodendroglia	Cell1150	4	14 Mature OLs
+6225	7576.25	17681	0	Oligodendroglia	Cell1151	4	14 Mature OLs
+6229	7574.73	17681	0	Oligodendroglia	Cell1155	4	14 Mature OLs
+6230	7574.57	17681	0	Oligodendroglia	Cell1156	1	13 OPCs
+6235	7575.12	17681	0	Oligodendroglia	Cell1161	4	14 Mature OLs
+6236	7575.65	17681	0	Oligodendroglia	Cell1162	4	14 Mature OLs
+6237	7574	17681	0	Oligodendroglia	Cell1163	4	14 Mature OLs
+6238	7574.64	17681	0	Oligodendroglia	Cell1164	4	14 Mature OLs
+6241	7574.76	17681	0	Oligodendroglia	Cell1167	4	14 Mature OLs
+6242	7575.86	17681	0	Oligodendroglia	Cell1168	4	14 Mature OLs
+6243	7576.25	17681	0	Oligodendroglia	Cell1169	4	14 Mature OLs
+6245	7574.69	17681	0	Oligodendroglia	Cell1171	4	14 Mature OLs
+6246	7574.78	17681	0	Oligodendroglia	Cell1172	4	14 Mature OLs
+6250	7574.94	17681	0	Oligodendroglia	Cell1176	4	14 Mature OLs
+6251	7575.58	17681	0	Oligodendroglia	Cell1177	4	14 Mature OLs
