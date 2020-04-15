@@ -1,0 +1,10 @@
+Alzheimer disease-presenilin   							= AD-presenilin
+Transmembrane receptor regulatory/adaptor protein				= Transmembrane receptor (regulatory/adaptor)
+All with "transcription factor" 						= .... TF
+Transcription cofactor 								= TcoF
+Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway = Gq/Go alpha G-protein signaling
+Insulin/IGF pathway-protein kinase B signaling cascade 				= Insulin/IGF-PKB signaling
+Nucleic acid binding								= DNA/RNA binding
+Alzheimer disease-amyloid secretase pathway 					= AD-amyloid secretase pathway 	
+	
+	
