@@ -11,3 +11,10 @@ To address this, an in-depth single-cell transcriptomic analyses was done to res
 Moreover, in-depth gene regulatory network analysis identified key stage-specific master regulators of the oligodendrocyte lineage and revealed new mechanisms by which signalling pathways interact with transcriptional networks to control lineage progression. This study was able to connect in a multilevel network 13 distinct phases of differentiation from NSCs to mature oligodendrocytes by including novel transcriptional mechanisms orchestrating the transition of stages.
 
 Provided in this page are the data in the forms of scripts, network files, matrices, gene lists and a number of other formats generated for formulating the study.
+
+
+The transcriptional networks controlling SVZ-NSCs during adult oligodendrogenesis are currently unsolved. In this project, we set out to unravel the molecular mechanisms orchestrating the fate of oligodendrocyte lineage cells. 
+Here, we used a strategy developed by Dr Onur Basak and colleagues where NSCs/progenitors and subtypes of neural cells surrounding the niche of young adult SVZ were isolated and FACS-enriched using genetic reporters and immunochemical markers as described in detail for olfactory neurogenesis in his landmark study (Basak et al., 2018). 
+
+Basak O, Krieger TG, Muraro MJ, Wiebrands K, Stange DE, Frias-Aldeguer J, Rivron NC, van de Wetering M, van Es JH, van Oudenaarden A, Simons BD, Clevers H (2018) Troy+ brain stem cells cycle through quiescence and regulate their number by sensing niche occupancy. Proc Natl Acad Sci U S A 115:E610-E619.
+
