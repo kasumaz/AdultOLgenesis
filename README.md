@@ -211,7 +211,7 @@ Raw data's and network files for performing the analysis:
 
 [GRN Base For Testing Network Propagation.zip](https://github.com/kasumaz/AdultOLgenesis/files/4482754/GRN.Base.For.Testing.Network.Propagation.zip)
 
-This may be useful for identifying for example, potentially inhibitory ligands/chemokines that emerge during disease with unknown effects on oligodendroglial lineage cells. If the known transcriptional effectors of such cues are expressed endogenously, the gene targets can be predicted. Our future investigations will aim to define these regulatory interactions from different contexts from health and disease in order to improve accuracy of predictions.   
+Such analysis can be useful for identifying for example, potentially inhibitory ligands/chemokines that emerge during disease with unknown effects on oligodendroglial lineage cells. If the known transcriptional effectors of such cues are expressed endogenously, the gene targets can be predicted. Our future investigations will aim to define these regulatory interactions from different contexts (i.e. disease states) in order to improve accuracy of predictions.   
 
 
 ## References: 
