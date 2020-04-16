@@ -8,7 +8,7 @@ To address this, an in-depth single-cell transcriptomic analyses was done to res
 
 Moreover, in-depth gene regulatory network analysis identified key stage-specific master regulators of the oligodendrocyte lineage and revealed new mechanisms by which signalling pathways interact with transcriptional networks to control lineage progression. This study was able to connect in a multilevel network 13 distinct phases of differentiation from NSCs to mature oligodendrocytes by including novel transcriptional mechanisms orchestrating the transition of stages.
 
-**Provided in this page are the data in the forms of scripts, network files, matrices, gene lists and a number of other formats generated for formulating the study separated into each of the folder as they appear in the manuscript. The current submitted study is currently undergoing revisions and further data are placed in this page that are not part of the manuscript as extra material. This page will be updated in due course in accordance with the final presentation of data in the manuscript.**
+**Provided in this page are the data in the forms of scripts, network files, matrices, gene lists and a number of other formats generated for formulating the study. These are separated into each of the folder as they appear in the manuscript. The current submitted study is undergoing revisions and further data are placed in this page that is not part of the manuscript as extra material. Updates to follow in due course in accordance with the final presentation of data in the manuscript.**
 
 
 ![NRR2 Fig](https://user-images.githubusercontent.com/31452870/79333262-837d6100-7f1e-11ea-95d0-886b54d61c62.jpg)
@@ -16,41 +16,41 @@ Moreover, in-depth gene regulatory network analysis identified key stage-specifi
 
 
 # Section 1 - Dissecting oligodendrocyte lineage heterogeneity: Framework for in-depth examination into disease states
-The SVZ has been recently described as heterogeneous germinal zone that contains NSCs that continuously gives rise to new neural cells life-long. This heterogeneous germinal zone has been identified from the labs of Raineteau, Berninger, Gotz, Parras, Butt, Richardson and others (Kessaris et al., 2006; Young et al., 2007; Brill et al., 2009; Winpenny et al., 2011; Nakatani et al., 2013; Ortega et al., 2013; Fiorelli et al., 2015; Azim et al., 2017; Zweifel et al., 2018), demonstrating that it consists of distinct SVZ microdomain that generates different neural lineages throughout life. For example, the NSCs from the dorsal wall (cells in red in Figure above) preferably differentiate into glutamatergic neurons or oligodendrocytes, whilst NSCs from more ventral regions gives rise interneurons. The functions of these newly generated cells are for plasticity purposes, maintenance and re-organization of neuronal networks. Subclasses of newborn neurons migrate long distance and invade the olfactory bulb. 
+The SVZ is a germinal zone that contains NSCs that continuously gives rise to new neural cells life-long. Recent work from the labs of Raineteau, Berninger, Gotz, Parras, Butt, Richardson and others, have demonstrated the SVZ consists of distinct SVZ microdomain that generates different neural lineages throughout life (Kessaris et al., 2006; Young et al., 2007; Brill et al., 2009; Winpenny et al., 2011; Nakatani et al., 2013; Ortega et al., 2013; Fiorelli et al., 2015; Azim et al., 2017; Zweifel et al., 2018). For example, the NSCs from the dorsal wall (cells in red in Figure above) preferably differentiate into glutamatergic neurons or oligodendrocytes, whilst NSCs from more ventral regions gives rise interneurons. The functions of these newly generated cells are for plasticity purposes, maintenance and re-organization of neuronal networks. Subclasses of newborn neurons migrate long distance and invade the olfactory bulb. 
 
 ![Fig 2](https://user-images.githubusercontent.com/31452870/79344589-5043cd80-7f30-11ea-9c77-95fbb7e201b9.jpg)
 
-Neural cell genesis occurs sequentially, and the last cells to be generated in the SVZ are oligodendrocytes (Rowitch and Kriegstein, 2010; Naruse et al., 2017). As shown above, dorsal NSCs preferentially generate oligodendrocytes whereas interneurons are derived from more ventral NSCs. These findings in the field led to the concept that regionally segregated NSCs are primed in a time-controlled manner for the generation of neural subtypes, proposing that intrinsic mechanisms coupled to environmental cues drive NSC fates into specific neuronal and glial lineages. In the postnatal and adult SVZ, dorsalizing cues include the liver X receptor, FGF2 and Wnt signalling pathways (reviewed in (Azim et al., 2016)), whereas Shh regulates the expression of more ventralising transcriptional networks (Ihrie et al., 2011). This suggests that signalling pathways coordinate transcriptional networks, and are aspects that can be functionally probed for driving cell fates or lineage reprogramming. 
+Neural cell genesis occurs sequentially, and the last cells to be generated in the SVZ are oligodendrocytes (Rowitch and Kriegstein, 2010; Naruse et al., 2017). As shown above, dorsal NSCs preferentially generate oligodendrocytes whereas interneurons are derived from more ventral NSCs. These findings in the field led to the concept that regionally segregated NSCs are primed in a time-controlled manner for the generation of neural subtypes, proposing that intrinsic mechanisms coupled to environmental cues drive NSC fates into specific neuronal and glial lineages. In the postnatal and adult SVZ, dorsalizing cues include the liver X receptor, FGF2 and Wnt signalling pathways (reviewed in (Azim et al., 2016)), whereas Shh regulates the expression of more ventralizing transcriptional networks (Ihrie et al., 2011). This suggests that signalling pathways coordinate transcriptional networks, and are aspects that can be functionally probed for driving cell fates or lineage reprogramming. 
 
 
 The transcriptional networks controlling SVZ-NSCs during adult oligodendrogenesis are currently unsolved. In this project, we set out to unravel the molecular mechanisms orchestrating the fate of oligodendrocyte lineage cells. Here, we used a strategy developed by Dr Onur Basak and colleagues where NSCs/progenitors and subtypes of neural cells surrounding the niche of young adult SVZ were isolated and FACS-enriched using genetic reporters and immunochemical markers as described in detail for olfactory neurogenesis in his landmark study (Basak et al., 2018). 
 
-Based on previous work, it was hypothesized that adult lineage-specific NSCs could be identifiable by expression of common genes as hallmarks for defined subpopulations of NSCs as observed during early postnatal development. To this end, previously generated gene lists of SVZ-oligodendrogenesis from bulk datasets were assembled and refined further for representing genes that are highly enriched in the OL lineage as compared to the generation of neuroblasts (NBs) (Azim et al., 2017). Normalized data provided in the matrices folder was used to input into PartekFlow (https://www.partek.com/partek-flow/). After default procedures and settings, landmark genes that define the earlier stages of the oligodendrocyte lineage were used to aid identification of potential oligodendroglial cliens. These include the indispensible TFs Olig2, Olig1 and Sox10, and a cohort of other TFs as described in Methods section of the manuscript). As an advantage, PartekFlow highlights cells based on input gene marker profiles, allowing the identification of neighboring cells that are transcriptionally similar. Following classification of putative OL clones descending from NSCs/TAPs, gene lists derived from PartekFlow had initially revealed that the major differences in the two SVZ lineages are attributed to the expression of TFs (see below), which is in agreement with the observed postnatal gliogenic lineages abundance of TF expression (Azim et al., 2015). 
+Based on previous work, it was hypothesized that adult lineage-specific NSCs could be identifiable by expression of common genes as hallmarks for defined subpopulations of NSCs as observed during early postnatal development. To this end, previously generated gene lists of SVZ-oligodendrogenesis from bulk datasets were assembled and refined further for representing genes that are highly enriched in the OL lineage as compared to the generation of neuroblasts (NBs) (Azim et al., 2017). Normalized data provided in the matrices folder was used to input into PartekFlow (https://www.partek.com/partek-flow/). After default procedures and settings, landmark genes that define the earlier stages of the oligodendrocyte lineage were used to aid identification of potential oligodendroglial clones. These include the indispensible TFs Olig2, Olig1 and Sox10, and a cohort of other TFs as described in Methods section of the manuscript). As an advantage, PartekFlow highlights cells based on input gene marker profiles, allowing the identification of neighboring cells that are transcriptionally similar. Following classification of putative OL clones descending from NSCs/TAPs, gene lists derived from PartekFlow had initially revealed that the major differences in the two SVZ lineages are attributed to the expression of TFs (see below), which is in agreement with the observed postnatal gliogenic lineages abundance of TF expression (Azim et al., 2015). 
 
 Such identified cells made up approximately 15% of all NSCs/TAPs and were further refined by analyzing at different stages of differentiation more closely on tSNE plots coupled with the a PCA heat plot for extracting representative OL lineage NSCs/TAPs (termed thereafter as OLNSCs/TAPs). These eventually amounted to approximately 7.2% of all NSC/TAP subtypes across the five NSC and TAP stages of differentiation. 
 
 ![PCA](https://user-images.githubusercontent.com/31452870/79344633-5e91e980-7f30-11ea-9c6b-98a482dd6f8e.jpg)
 
-Thereafter, expression profiles of substages of the OL lineage and of the neuronal lineage could be identified, where major oligodendroglial were lower or absent in the latter lineage. A third category of expression profiles were obtained where the genes common across both groups from stages qNSC up until TAPs were extracted. This third set of gene signature define common regulatory, processes, signaling mechanisms, etc in both SVZ lineages and summarized in the figure below. Raw tsne plots extracted from PartekFlow are uploaded into the Figure 1 folder above (subfolder "Figure 1A,B,D"). 
+Thereafter, expression profiles of substages of the OL lineage and of the neuronal lineage could be identified, where major oligodendroglial were lower or absent in the latter lineage. A third category of expression profiles were obtained where the genes common across both groups from stages qNSC up until TAPs were extracted. This third set of gene signature define common regulatory, processes, signaling mechanisms, etc, in both SVZ lineages and summarized in the figure below. Raw tsne plots extracted from PartekFlow are uploaded into the Figure 1 folder above (subfolder "Figure 1A,B,D"). 
 
 ![Lineage classification](https://user-images.githubusercontent.com/31452870/79344607-56d24500-7f30-11ea-8bd1-9aba3ad85a35.jpg)
 
-Once OL and neuronal clones of cells were assigned, they were renamed in the matrix (RACEID normalised Matrix of 1466.zip) and was processed next using the gold standard Seurat package (https://satijalab.org/seurat/v3.1/visualization_vignette.html) for single cell analysis (Butler et al. 2018) (Adapted Scripts and input Matrix in Subfolder Figure 1E,F). FateID pseudotime trajectory done as per the guidlines in this folllowing resource: https://github.com/dgrun/FateID (Herman et al. 2018) and data provided im subfolders Figure 1C.
+Once OL and neuronal clones of cells were assigned, they were renamed in the matrix (RACEID normalised Matrix of 1466.zip) and was processed next using the gold standard Seurat package (https://satijalab.org/seurat/v3.1/visualization_vignette.html) for single cell analysis (Butler et al. 2018) (Adapted Scripts and input Matrix in Subfolder Figure 1E,F). FateID pseudotime trajectory done as per the guidelines in the following toolkit: https://github.com/dgrun/FateID (Herman et al. 2018) and data provided in subfolders Figure 1C.
 
 
 # ** Section 2 - Pathway and Biological Process Gene Ontology Analysis -  Online Extension to Figure 2**
 
 Additional unpublished gene ontology analysis done on the three broader groups using the following online tool: http://www.pantherdb.org
-in this analysis, the gene expression profiles of cells within these groups as shown in the figure above, we pooled so as to have 3 broader groups for Panther Pathway, Reactome Pathway/Processes and protein class. The same procedures were followed as the data presented for dotplots in the main manuscript. 
+In this analysis, the gene expression profiles of cells within these groups as shown in the figure above, we pooled so as to have 3 broader groups for Panther Pathway, Reactome Pathway/Processes and protein class. The same procedures were followed as the data presented for dotplots in the main manuscript. 
 ![BROADER GO STUFF](https://user-images.githubusercontent.com/31452870/79344564-49b55600-7f30-11ea-9dc1-a6d22812b220.jpg)
 Raw data: 
 [The 3 broad stages for pathway analysis.zip](https://github.com/kasumaz/AdultOLgenesis/files/4481775/The.3.broad.stages.for.pathway.analysis.zip)
 
-Similarly, using cluego on cytoscape, cluster specific genes for the 7 oligodendroglial stages were used as input for examining reactome pathways as shown in figure below. 
+Similarly, using Cluego on Cytoscape, cluster specific genes for the 7 oligodendroglial stages were used as input for examining Reactome pathways as shown in figure below. 
 
 ![cluego](https://user-images.githubusercontent.com/31452870/79344575-4d48dd00-7f30-11ea-8a80-67459949368a.jpg)
 
-Raw cytoscape cluego file to follow. 
+Raw Cytoscape Cluego file to follow. 
 
 
 
@@ -66,7 +66,7 @@ https://www.nature.com/articles/s41540-018-0066-z
 http://apps.cytoscape.org/apps/tetramer 
 http://igbmc.fr/Gronemeyer/qcgenomics/TETRAMER
 
-Further information on optimization of this method can be provided by its devloper Dr Marco Mendoza Parra mmendoza@genoscope.cns.fr
+Further information on optimization of this method can be provided by its developer Dr Marco Mendoza Parra mmendoza@genoscope.cns.fr
 
 A major advancement in this tool unlike any other gene network analysis tool is that transcriptional regulation of target-genes can be defined as gene activation or gene repression, which is unlike another method. 
 
@@ -76,7 +76,7 @@ The GRN assembled for common TFs and oligodendrogenesis were combined and merged
 
 ![GRN](https://user-images.githubusercontent.com/31452870/79344600-55088180-7f30-11ea-9ae0-bc1f6bc2072e.jpg)
 
-Subnetworks below used to reconstruct are provided as raw cytoscape files in Supplementary Figures/Supplementary Figure 6 together with the final reconstructed GRN. 
+Subnetworks below used to reconstruct are provided as raw Cytoscape files in Supplementary Figures/Supplementary Figure 6 together with the final reconstructed GRN. 
 
 ![Legend](https://user-images.githubusercontent.com/31452870/79365049-6a8aa500-7f4a-11ea-935a-3d53682c1b20.jpg)
 
@@ -128,7 +128,7 @@ See above legend for detailing network and interaction components.
 
 # **Section 7 - Transcriptional Propagation of Signaling Pathways Across the AdultOLgenesis Gene Regulatory Network - Online Extension to Figure 6**
 
-This section contains the data used to generate figure 6 of the main manuscript, higher resolution files, TF/gene node coordinates accross the network and the main GRN file.
+This section contains the data used to generate figure 6 of the main manuscript, higher resolution files, TF/gene node coordinates across the network and the main GRN file.
 
 **Downstream signaling pathway effectors tested** 
 
@@ -154,7 +154,7 @@ Ascl1
 Fosb
 Egr1
 
-Tanscriptional Regulation BY bZP TFs:
+Tanscriptional Regulation by bZP TFs:
 Creb3l1
 Gtf2e2
 
@@ -163,7 +163,7 @@ Tbpl1
 Taf9
 Gtf2e2
 
-CCKR Signalin Map:
+CCKR Signaling Map:
 Ctnnb1
 Fos
 Srf
@@ -198,7 +198,7 @@ p53 feedback loop2:
 Rbl1
 Ctnnb1
 
-In the illustrations here given, for example, for PDGF Signaling, its TFs are quiered into in the search box in cytoscape to highlight them. In select pull down menu to "Nodes" to "First Neighnors of Selected Nodes" and selecting "Directed: Outgoing". Target genes immediately downstream of PDGF TF effectors are selected which. These steps are repeated once more to highlight incrementally the signal propagation and network coverage until this point. In the edges menu, the column of "is_inhibition" reveals the transcriptional regulation of selected genes and can be quantified (by exporting table as is or copying and pasting of columns to excel) for gene activation, repression or unknown undetermines interaction. Data can be plotted as exemplified in the figure below. 
+In the illustrations here given, for example, for PDGF Signaling, its TFs are queried into in the search box in Cytoscape to highlight them. In select pull down menu to "Nodes" to "First Neighnors of Selected Nodes" and selecting "Directed: Outgoing". Target genes immediately downstream of PDGF TF effectors are selected which. These steps are repeated once more to highlight incrementally the signal propagation and network coverage until this point. In the edges menu, the column of "is_inhibition" reveals the transcriptional regulation of selected genes and can be quantified (by exporting table as is or copying and pasting of columns to excel) for gene activation, repression or unknown undetermined interaction. Data can be plotted as exemplified in the figure below. 
 
 ![Figure 6](https://user-images.githubusercontent.com/31452870/79368214-54331800-7f4f-11ea-830b-dffac96afac7.jpg)
 
@@ -211,7 +211,7 @@ Raw data's and network files for performing the analysis:
 
 [GRN Base For Testing Network Propagation.zip](https://github.com/kasumaz/AdultOLgenesis/files/4482754/GRN.Base.For.Testing.Network.Propagation.zip)
 
-This may be useful for identifying for example, potentially inhibitory ligands/chemokines that emerge during disease with unknown effects on oligodendroglial lineage cells. If the known transcriptional effectors of such cues are expressed endogeneously, the gene targets can be predicted. Our future investigations will aim to define these regulatory interactions from different contexts from health and disease in order to improve accuracy of predictions.   
+This may be useful for identifying for example, potentially inhibitory ligands/chemokines that emerge during disease with unknown effects on oligodendroglial lineage cells. If the known transcriptional effectors of such cues are expressed endogenously, the gene targets can be predicted. Our future investigations will aim to define these regulatory interactions from different contexts from health and disease in order to improve accuracy of predictions.   
 
 
 ## References: 
