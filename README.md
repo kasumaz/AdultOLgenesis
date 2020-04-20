@@ -68,7 +68,7 @@ http://igbmc.fr/Gronemeyer/qcgenomics/TETRAMER
 
 Further information on optimization of this method can be provided by its developer Dr Marco Mendoza Parra mmendoza@genoscope.cns.fr
 
-A major advancement in this tool unlike any other gene network analysis tool is that transcriptional regulation of target-genes can be defined as gene activation or gene repression, which is unlike another method. 
+A major advancement in this gene network analysis tool is that is enables transcriptional regulation of target-genes to be defined as gene activation or gene repression, which is unlike any other method. 
 
 ![ref fig](https://user-images.githubusercontent.com/31452870/79357244-0f53b500-7f40-11ea-955f-49e529e68cac.jpg)
 
