@@ -72,7 +72,7 @@ A major advancement in this tool unlike any other gene network analysis tool is 
 
 ![ref fig](https://user-images.githubusercontent.com/31452870/79357244-0f53b500-7f40-11ea-955f-49e529e68cac.jpg)
 
-The GRN assembled for common TFs and oligodendrogenesis were combined and merged with a recently assembled GRN for oligodendrogenesis comprising post OPC to mature OL stages (Cantone et al., 2019). In the later study, the downstream gene regulatory effects of TFs Olig2, Sox10, and Tcf7l2 during OL differentiation and maturation were unraveled. Therein, genes overlapping in later stage OLs from the present study with those published recently (Cantone et al., 2019), were filtered and represented as GO Biological Processes in a larger merged network. 
+The GRN assembled for common TFs and oligodendrogenesis were combined and merged with a recently assembled GRN for oligodendrogenesis comprising post OPC to mature OL stages (Cantone et al., 2019). In the later study, the downstream gene regulatory effects of TFs Olig2, Sox10, and Tcf7l2 during OL differentiation and maturation were unraveled. Therein, genes overlapping in later stage OLs from the present study with those published recently (Cantone et al., 2019), were filtered and represented as GO Biological Processes in a larger merged network. Please also check out the online tool of virtual cells made by our partners that can be used to explore later stages oligodendrocytes: https://www.vcells.net/oligodendrocyte/
 
 ![GRN](https://user-images.githubusercontent.com/31452870/79344600-55088180-7f30-11ea-9ae0-bc1f6bc2072e.jpg)
 
